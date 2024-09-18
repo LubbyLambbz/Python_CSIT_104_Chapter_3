@@ -30,3 +30,5 @@ print("Set function example:", my_set2)
 print()
 print("Dictionary example:", my_dict)
 print()
+
+print('hello world')
